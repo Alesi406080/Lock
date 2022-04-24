@@ -309,7 +309,7 @@ class __crack__:
 						if len(xz) == 1:
 							pwx = [first, xz[12] + 'last', xz[123] + 'Frist', xz[1234] + 'first', xz[12345]
 						elif len(xz) == 2:
-							pwx = [first, xz[786] + 'last', xz[789] + 'Frist', xz[1122] + 'First', xz[0786']
+							pwx = [first, xz[0] + 'last', xz[1] + 'Frist', xz[1] + 'First', xz[0']
 						elif len(xz) == 3:
 							pwx = [name, xz[Day+month+year] + , name xz[pakisan]
 						elif len(xz) == 4:
